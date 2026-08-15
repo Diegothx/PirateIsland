@@ -1,0 +1,5 @@
+Content/AssetsPack/Stylized_LowPoly_Rocks_JayantChakradhariAssets/Textures/T_Antelope_Canyon_3_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/AssetsPack/Stylized_LowPoly_Rocks_JayantChakradhariAssets/Textures/T_Antelope_Canyon_5_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/AssetsPack/Stylized_LowPoly_Rocks_JayantChakradhariAssets/Textures/T_Antelope_Canyon_7_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/AssetsPack/Stylized_LowPoly_Rocks_JayantChakradhariAssets/Meshes/Rock_BricksWall/SM_Simple_Real_Wall.uasset filter=lfs diff=lfs merge=lfs -text
+Content/AssetsPack/Stylized_LowPoly_Rocks_JayantChakradhariAssets/Meshes/Rock_BricksWall/SM_Unique_Brick_Wall.uasset filter=lfs diff=lfs merge=lfs -text
